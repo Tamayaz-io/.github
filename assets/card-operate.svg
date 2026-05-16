@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Operate: AI operators that handle the work in the channels your team already uses">
+  <title>Operate</title>
+  <defs>
+    <linearGradient id="bg-operate" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2526"/>
+      <stop offset="100%" stop-color="#161314"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="320" rx="18" fill="url(#bg-operate)"/>
+  <rect width="480" height="6" fill="#44D62C"/>
+  <g fill="#44D62C" opacity="0.10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <text x="396" y="46">+</text><text x="416" y="46">+</text><text x="436" y="46">+</text><text x="456" y="46">+</text>
+    <text x="396" y="66">+</text><text x="416" y="66">+</text><text x="436" y="66">+</text><text x="456" y="66">+</text>
+    <text x="396" y="86">+</text><text x="416" y="86">+</text><text x="436" y="86">+</text><text x="456" y="86">+</text>
+  </g>
+  <text x="36" y="92" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="800" font-size="56" fill="#44D62C" letter-spacing="-2">03</text>
+  <text x="36" y="172" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="800" font-size="44" fill="#FFFFFF" letter-spacing="-1">Operate</text>
+  <g font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="400" font-size="17" fill="#C6C9C6">
+    <text x="36" y="218">AI operators that handle</text>
+    <text x="36" y="243">the work in the channels</text>
+    <text x="36" y="268">your team already uses.</text>
+  </g>
+  <g transform="translate(386, 232)" opacity="0.32">
+    <path d="M 0 60 L 60 0" stroke="#44D62C" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 28 0 L 60 0 L 60 32" stroke="#44D62C" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
