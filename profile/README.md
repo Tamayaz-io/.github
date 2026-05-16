@@ -25,24 +25,23 @@
 
 <h2 align="center">What we do</h2>
 
-<table align="center">
-  <tr>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="100%" /></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="100%" /></td>
-    <td width="33%"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="100%" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="32%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-automate.svg" alt="Automate: workflows that remove the repetitive parts of running a business" width="32%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-operate.svg" alt="Operate: AI operators that handle the work in the channels your team already uses" width="32%" />
+</p>
 
 <br>
 
 <h2 align="center">Our products</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%"><a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="100%" /></a></td>
-    <td width="50%"><a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="100%" /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="48%" /></a>
+  &nbsp;
+  <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="48%" /></a>
+</p>
 
 <br>
 
