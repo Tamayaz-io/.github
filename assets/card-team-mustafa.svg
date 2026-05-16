@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" role="img" aria-label="Mustafa Mrad, engineer">
+  <title>Mustafa Mrad, engineer</title>
+  <defs>
+    <linearGradient id="bg-mustafa" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2526"/>
+      <stop offset="100%" stop-color="#161314"/>
+    </linearGradient>
+    <clipPath id="avatar-clip-mustafa">
+      <circle cx="120" cy="120" r="70"/>
+    </clipPath>
+  </defs>
+  <rect width="600" height="240" rx="18" fill="url(#bg-mustafa)"/>
+  <rect width="600" height="6" fill="#44D62C"/>
+  <g fill="#44D62C" opacity="0.10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <text x="496" y="46">+</text><text x="516" y="46">+</text><text x="536" y="46">+</text><text x="556" y="46">+</text><text x="576" y="46">+</text>
+    <text x="496" y="66">+</text><text x="516" y="66">+</text><text x="536" y="66">+</text><text x="556" y="66">+</text><text x="576" y="66">+</text>
+    <text x="496" y="86">+</text><text x="516" y="86">+</text><text x="536" y="86">+</text><text x="556" y="86">+</text><text x="576" y="86">+</text>
+  </g>
+  <circle cx="120" cy="120" r="74" fill="none" stroke="#44D62C" stroke-width="3"/>
+  <image x="50" y="50" width="140" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip-mustafa)" href="data:image/png;base64,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"/>
+  <text x="230" y="92" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#44D62C">ENGINEER</text>
+  <text x="230" y="142" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="800" font-size="36" fill="#FFFFFF" letter-spacing="-0.5">Mustafa Mrad</text>
+  <text x="230" y="172" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#C6C9C6">@Mustafa-Tamayaz</text>
+</svg>

@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:231F20,100:44D62C&height=220&section=header&text=Tamayaz&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Transforming%20Processes.%20Optimizing%20Operations.%20Shaping%20Success.&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="banner" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/tamayaz-logo.png" alt="Tamayaz" width="300">
+<img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/hero-tamayaz.svg" width="100%" alt="Tamayaz. Transforming Processes. Optimizing Operations. Shaping Success." />
 
 <p><em>Tamayaz designs and builds the operational backbone for businesses that want their day back.</em></p>
 
@@ -41,6 +37,16 @@
   <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="47%" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="47%" /></a>
+</p>
+
+<br>
+
+<h2 align="center">The team</h2>
+
+<p align="center">
+  <a href="https://github.com/Hussein-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-hussein.svg" alt="Hussein Mrad, Co-Founder" width="47%" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mustafa-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-mustafa.svg" alt="Mustafa Mrad, Engineer" width="47%" /></a>
 </p>
 
 <br>
