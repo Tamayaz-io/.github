@@ -1,19 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/tamayaz-logo-light.png">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/tamayaz-logo-dark.png" alt="Tamayaz" width="320">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:231F20,100:44D62C&height=220&section=header&text=Tamayaz&fontColor=ffffff&fontSize=66&fontAlignY=38&desc=Transforming%20Processes.%20Optimizing%20Operations.%20Shaping%20Success.&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="banner" />
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:231F20,100:44D62C&height=4&width=100%25&section=header" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/tamayaz-logo.png" alt="Tamayaz" width="300">
 
-<h1>Transforming Processes.<br>Optimizing Operations.<br><span>Shaping Success.</span></h1>
-
-<p>
-  <em>Tamayaz designs and builds the operational backbone for businesses that want their day back.</em>
-</p>
+<p><em>Tamayaz designs and builds the operational backbone for businesses that want their day back.</em></p>
 
 <p>
   <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/tamayaz.io-44D62C?style=for-the-badge&logo=safari&logoColor=231F20" alt="tamayaz.io" /></a>
@@ -25,8 +18,6 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3500&pause=800&color=44D62C&center=true&vCenter=true&width=720&lines=Elite+digital+operations.;Systems+that+power+modern+businesses.;Stop+bottlenecking+growth." alt="taglines" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:44D62C,100:231F20&height=4&width=100%25&section=header" alt="" width="100%" />
 
 </div>
 
@@ -86,7 +77,7 @@ If you're looking for help with a product build, an internal tool, or an automat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:231F20,100:44D62C&height=3&width=100%25&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44D62C,100:231F20&height=120&section=footer" width="100%" alt="" />
 
 <sub><b>Tamayaz</b> &nbsp;·&nbsp; Elite digital operations &nbsp;·&nbsp; <code>#231F20</code> &nbsp;·&nbsp; <code>#44D62C</code> &nbsp;·&nbsp; Montserrat</sub>
 
