@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-what-we-do.svg" alt="01. What we do" width="55%" />
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-what-we-do.svg" alt="01. What we do" width="100%" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-our-products.svg" alt="02. Our products" width="55%" />
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-our-products.svg" alt="02. Our products" width="100%" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-the-team.svg" alt="03. The team" width="55%" />
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-the-team.svg" alt="03. The team" width="100%" />
 </p>
 
 <p align="center">
