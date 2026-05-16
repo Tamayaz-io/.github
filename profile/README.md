@@ -24,7 +24,9 @@
 
 <br>
 
-<h2 align="center">What we do</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-what-we-do.svg" alt="01. What we do" width="55%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="32%" />
@@ -36,7 +38,9 @@
 
 <br>
 
-<h2 align="center">Our products</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-our-products.svg" alt="02. Our products" width="55%" />
+</p>
 
 <p align="center">
   <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="47%" /></a>
@@ -46,24 +50,20 @@
 
 <br>
 
-<h2 align="center">The team</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-the-team.svg" alt="03. The team" width="55%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Hussein-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-hussein.svg" alt="Hussein Mrad, Co-Founder" width="47%" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mustafa-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-mustafa.svg" alt="Mustafa Mrad, Engineer" width="47%" /></a>
+  <a href="https://github.com/Mustafa-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-mustafa.svg" alt="Mustafa Mrad, Co-Founder" width="47%" /></a>
 </p>
 
 <br>
 
-<h2 align="center">Work with Tamayaz</h2>
-
 <p align="center">
-If you're looking for help with a product build, an internal tool, or an automation problem that has been sitting on a list too long, write to <b><a href="mailto:success@tamayaz.io">success@tamayaz.io</a></b> and we'll find a time to talk.
-</p>
-
-<p align="center">
-  <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/Claim%20Your%20Free%20Assessment-44D62C?style=for-the-badge&logoColor=231F20" alt="Claim Your Free Assessment" /></a>
+  <a href="https://tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/cta.svg" alt="Work with Tamayaz. Claim your free assessment, or write to success@tamayaz.io." width="90%" /></a>
 </p>
 
 <br>
