@@ -39,16 +39,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>Tamayaz App</h3>
-      <p><sub>The product behind every claim. Operations, automation, and the workflows your business actually runs on.</sub></p>
-      <a href="https://app.tamayaz.io"><img src="https://img.shields.io/badge/Visit%20the%20app-44D62C?style=for-the-badge&logoColor=231F20" alt="Visit the app" /></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>Yara</h3>
-      <p><sub>Your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks.</sub></p>
-      <a href="https://yara.tamayaz.io"><img src="https://img.shields.io/badge/Meet%20Yara-44D62C?style=for-the-badge&logoColor=231F20" alt="Meet Yara" /></a>
-    </td>
+    <td width="50%"><a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="100%" /></a></td>
+    <td width="50%"><a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-yara.svg" alt="Yara: your AI operator on WhatsApp and Telegram. Yara picks up work the way your team already talks." width="100%" /></a></td>
   </tr>
 </table>
 
