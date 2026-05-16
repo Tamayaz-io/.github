@@ -5,7 +5,11 @@
       <stop offset="0%" stop-color="#1a1718"/>
       <stop offset="100%" stop-color="#231F20"/>
     </linearGradient>
+    <clipPath id="hero-clip">
+      <rect x="0" y="0" width="1280" height="260"/>
+    </clipPath>
   </defs>
+
   <rect width="1280" height="260" fill="url(#hero-bg)"/>
 
   <g fill="#44D62C" opacity="0.08" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">
@@ -22,7 +26,15 @@
 
   <text x="640" y="200" text-anchor="middle" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="600" font-size="17" fill="#FFFFFF" opacity="0.92" letter-spacing="0.4">Transforming Processes. Optimizing Operations. Shaping Success.</text>
 
-  <path d="M 0 220 Q 160 200 320 215 T 640 215 T 960 215 T 1280 220 L 1280 260 L 0 260 Z" fill="#44D62C" opacity="0.18"/>
-  <path d="M 0 234 Q 160 220 320 230 T 640 230 T 960 230 T 1280 234 L 1280 260 L 0 260 Z" fill="#44D62C" opacity="0.45"/>
-  <path d="M 0 248 Q 160 240 320 246 T 640 246 T 960 246 T 1280 248 L 1280 260 L 0 260 Z" fill="#44D62C"/>
+  <g clip-path="url(#hero-clip)">
+    <path d="M -320 220 Q -240 200 -160 220 T 0 220 T 160 220 T 320 220 T 480 220 T 640 220 T 800 220 T 960 220 T 1120 220 T 1280 220 T 1440 220 T 1600 220 T 1760 220 L 1600 260 L -320 260 Z" fill="#44D62C" opacity="0.18">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-320 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+    <path d="M -320 232 Q -240 212 -160 232 T 0 232 T 160 232 T 320 232 T 480 232 T 640 232 T 800 232 T 960 232 T 1120 232 T 1280 232 T 1440 232 T 1600 232 T 1760 232 L 1600 260 L -320 260 Z" fill="#44D62C" opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-320 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path d="M -320 246 Q -240 226 -160 246 T 0 246 T 160 246 T 320 246 T 480 246 T 640 246 T 800 246 T 960 246 T 1120 246 T 1280 246 T 1440 246 T 1600 246 T 1760 246 L 1600 260 L -320 260 Z" fill="#44D62C">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-320 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
 </svg>

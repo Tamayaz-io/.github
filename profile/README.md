@@ -2,20 +2,25 @@
 
 <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/hero-tamayaz.svg" width="100%" alt="Tamayaz. Transforming Processes. Optimizing Operations. Shaping Success." />
 
-<p><em>Tamayaz designs and builds the operational backbone for businesses that want their day back.</em></p>
-
-<p>
-  <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/tamayaz.io-44D62C?style=for-the-badge&logo=safari&logoColor=231F20" alt="tamayaz.io" /></a>
-  <a href="https://app.tamayaz.io"><img src="https://img.shields.io/badge/app.tamayaz.io-231F20?style=for-the-badge&logo=rocket&logoColor=44D62C" alt="app.tamayaz.io" /></a>
-  <a href="https://yara.tamayaz.io"><img src="https://img.shields.io/badge/yara.tamayaz.io-231F20?style=for-the-badge&logoColor=44D62C" alt="yara.tamayaz.io" /></a>
-  <a href="mailto:success@tamayaz.io"><img src="https://img.shields.io/badge/success%40tamayaz.io-231F20?style=for-the-badge&logo=maildotru&logoColor=44D62C" alt="email" /></a>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3500&pause=800&color=44D62C&center=true&vCenter=true&width=720&lines=Elite+digital+operations.;Systems+that+power+modern+businesses.;Stop+bottlenecking+growth." alt="taglines" />
-</p>
-
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/mission.svg" alt="Our mission: Tamayaz designs and builds the operational backbone for businesses that want their day back." width="90%" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-site.svg" alt="tamayaz.io" width="22%" /></a>
+  &nbsp;
+  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-app.svg" alt="app.tamayaz.io" width="22%" /></a>
+  &nbsp;
+  <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-yara.svg" alt="yara.tamayaz.io" width="22%" /></a>
+  &nbsp;
+  <a href="mailto:success@tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-email.svg" alt="success@tamayaz.io" width="22%" /></a>
+</p>
 
 <br>
 
