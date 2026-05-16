@@ -2,31 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/hero-tamayaz.svg" width="100%" alt="Tamayaz. Transforming Processes. Optimizing Operations. Shaping Success." />
 
+<p><em>Tamayaz designs and builds the operational backbone for businesses that want their day back.</em></p>
+
+<p>
+  <a href="https://tamayaz.io"><img src="https://img.shields.io/badge/tamayaz.io-44D62C?style=for-the-badge&logo=safari&logoColor=231F20" alt="tamayaz.io" /></a>
+  <a href="https://app.tamayaz.io"><img src="https://img.shields.io/badge/app.tamayaz.io-231F20?style=for-the-badge&logo=rocket&logoColor=44D62C" alt="app.tamayaz.io" /></a>
+  <a href="https://yara.tamayaz.io"><img src="https://img.shields.io/badge/yara.tamayaz.io-231F20?style=for-the-badge&logoColor=44D62C" alt="yara.tamayaz.io" /></a>
+  <a href="mailto:success@tamayaz.io"><img src="https://img.shields.io/badge/success%40tamayaz.io-231F20?style=for-the-badge&logo=maildotru&logoColor=44D62C" alt="email" /></a>
+</p>
+
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/mission.svg" alt="Our mission: Tamayaz designs and builds the operational backbone for businesses that want their day back." width="90%" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-site.svg" alt="tamayaz.io" width="22%" /></a>
-  &nbsp;
-  <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-app.svg" alt="app.tamayaz.io" width="22%" /></a>
-  &nbsp;
-  <a href="https://yara.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-yara.svg" alt="yara.tamayaz.io" width="22%" /></a>
-  &nbsp;
-  <a href="mailto:success@tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/link-email.svg" alt="success@tamayaz.io" width="22%" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-what-we-do.svg" alt="01. What we do" width="100%" />
-</p>
+<h2 align="center">What we do</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-build.svg" alt="Build: bespoke software for operations that don't fit off-the-shelf tools" width="32%" />
@@ -38,9 +27,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-our-products.svg" alt="02. Our products" width="100%" />
-</p>
+<h2 align="center">Our products</h2>
 
 <p align="center">
   <a href="https://app.tamayaz.io"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-product-app.svg" alt="Tamayaz App: the product behind every claim. Operations, automation, and the workflows your business actually runs on." width="47%" /></a>
@@ -50,9 +37,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/header-the-team.svg" alt="03. The team" width="100%" />
-</p>
+<h2 align="center">The team</h2>
 
 <p align="center">
   <a href="https://github.com/Hussein-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-hussein.svg" alt="Hussein Mrad, Co-Founder" width="47%" /></a>
@@ -69,9 +54,5 @@
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44D62C,100:231F20&height=120&section=footer" width="100%" alt="" />
-
-<sub><b>Tamayaz</b> &nbsp;·&nbsp; Elite digital operations &nbsp;·&nbsp; <code>#231F20</code> &nbsp;·&nbsp; <code>#44D62C</code> &nbsp;·&nbsp; Montserrat</sub>
-
+  <sub><b>Tamayaz</b> &nbsp;·&nbsp; Elite digital operations &nbsp;·&nbsp; <code>#231F20</code> &nbsp;·&nbsp; <code>#44D62C</code> &nbsp;·&nbsp; Montserrat</sub>
 </div>
