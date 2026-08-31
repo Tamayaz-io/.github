@@ -45,6 +45,16 @@
   <a href="https://github.com/Mustafa-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-mustafa.svg" alt="Mustafa Mrad, Co-Founder" width="47%" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/fayez-tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-fayez.svg" alt="Fayez Bast, Back-End Developer" width="47%" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Rana-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-rana.svg" alt="Rana Al-ladan, Front-End Developer" width="47%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/omz179"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-omar.svg" alt="Omar, Full-Stack Developer" width="47%" /></a>
+</p>
+
 <br>
 
 <p align="center">

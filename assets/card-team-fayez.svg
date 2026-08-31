@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" role="img" aria-label="Fayez Bast, Back-End Developer">
+  <title>Fayez Bast, Back-End Developer</title>
+  <defs>
+    <linearGradient id="bg-fayez" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2526"/>
+      <stop offset="100%" stop-color="#161314"/>
+    </linearGradient>
+    <clipPath id="avatar-clip-fayez">
+      <circle cx="120" cy="120" r="70"/>
+    </clipPath>
+  </defs>
+  <rect width="600" height="240" rx="18" fill="url(#bg-fayez)"/>
+  <rect width="600" height="6" fill="#44D62C"/>
+  <g fill="#44D62C" opacity="0.10" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <text x="496" y="46">+</text><text x="516" y="46">+</text><text x="536" y="46">+</text><text x="556" y="46">+</text><text x="576" y="46">+</text>
+    <text x="496" y="66">+</text><text x="516" y="66">+</text><text x="536" y="66">+</text><text x="556" y="66">+</text><text x="576" y="66">+</text>
+    <text x="496" y="86">+</text><text x="516" y="86">+</text><text x="536" y="86">+</text><text x="556" y="86">+</text><text x="576" y="86">+</text>
+  </g>
+  <circle cx="120" cy="120" r="74" fill="none" stroke="#44D62C" stroke-width="3"/>
+  <image x="50" y="50" width="140" height="140" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip-fayez)" href="data:image/png;base64,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"/>
+  <text x="230" y="92" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#44D62C">BACK-END DEVELOPER</text>
+  <text x="230" y="142" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="800" font-size="36" fill="#FFFFFF" letter-spacing="-0.5">Fayez Bast</text>
+  <text x="230" y="172" font-family="Montserrat, ui-sans-serif, Helvetica, Arial, sans-serif" font-weight="400" font-size="15" fill="#C6C9C6">@fayez-tamayaz</text>
+</svg>
