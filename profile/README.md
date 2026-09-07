@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://github.com/Omar-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-omar.svg" alt="Omar Mrad, Back-End Engineer" width="47%" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Osmar-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-osmar.svg" alt="Osmar Mrad, Junior Back-End Engineer" width="47%" /></a>
+  <a href="https://github.com/Osmar-Tamayaz"><img src="https://raw.githubusercontent.com/Tamayaz-io/.github/main/assets/card-team-osmar.svg" alt="Omar Mrad, Junior Back-End Engineer" width="47%" /></a>
 </p>
 
 <br>
